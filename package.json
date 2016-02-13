@@ -1,0 +1,15 @@
+{
+  "name": "nodeschoolJazFunctionalCoffeeScript",
+  "version": "1.0.0",
+  "description": "NodeSchool class - Functional JavaScript Workshop",
+  "main": "index.js",
+  "dependencies": {
+    "functional-javascript-workshop": "^1.0.5",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
