@@ -4,7 +4,7 @@
   "description": "NodeSchool class - Functional JavaScript Workshop",
   "main": "index.js",
   "dependencies": {
-    "functional-javascript-workshop": "^1.0.5",
+    "functional-javascript-workshop": "^1.0.5"
   },
   "devDependencies": {},
   "scripts": {
